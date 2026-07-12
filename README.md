@@ -38,12 +38,6 @@ Or run without arguments to enter the URL interactively:
 python phishing_detector.py
 ```
 
-## Example
-
-```bash
-python phishing_detector.py https://google.com
-```
-
 ## License
 
 GNU General Public License v3.0
